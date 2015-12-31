@@ -1,1 +1,5 @@
 .idea
+.sass-cache
+public/images
+public/stylesheets/*.css
+public/stylesheets/*.map
